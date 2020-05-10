@@ -1,0 +1,31 @@
+{
+  "name": "paperdapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "node server.js"
+  },
+  "author": "Shubham Rampurkar",
+  "license": "ISC",
+  "dependencies": {
+    "file-saver": "^2.0.2",
+    "fs-extra": "^9.0.0",
+    "ganache-cli": "^6.9.1",
+    "ipfs-api": "^26.1.2",
+    "ipfs-http-client": "^43.0.1",
+    "mocha": "^7.1.1",
+    "next": "^4.1.4",
+    "next-routes": "^1.4.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-file-viewer": "^1.2.1",
+    "react-native-fs": "^2.16.6",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2",
+    "solc": "^0.4.17",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.0.0-beta.26"
+  }
+}
