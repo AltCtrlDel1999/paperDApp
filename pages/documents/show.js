@@ -70,7 +70,7 @@ class DocumentShow extends Component{
           </Grid>
           <Container style={{marginTop:'50px'}}>
             <Button style={{marginRight: '10px'}} primary onClick={this.onDownload} >Download File</Button>
-            <Link route={`/campaigns/${this.props.address}/versions`}>
+            <Link route={`/documents/${this.props.address}/versions`}>
               <a>
                 <Button primary>Track Update History</Button>
               </a>
