@@ -1,3 +1,5 @@
+[![GitHub forks](https://img.shields.io/github/forks/AltCtrlDel1999/paperDApp.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/AltCtrlDel1999/paperDApp/network/)
+
 ## paperDApp
 Blockchain based decentralised web application for document management and tracking
 ## Set up Local Enviornment
